@@ -2,7 +2,7 @@
 require_once "header/header.php";
 ?>
 <div class="container">
-<!-- <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
+ <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
   <button type="button" class="btn btn-secondary">1</button>
   <button type="button" class="btn btn-secondary">2</button>
 
